@@ -1,1 +1,1 @@
-Hello, this is ch 1 bug file. Where bug is fixed.
+Hello, this is ch 1 fixed. All fixed.
